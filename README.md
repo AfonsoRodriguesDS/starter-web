@@ -4,6 +4,8 @@ Simple project to learn how to handle git.
 Line added for the rebasing example.
 Line added for the rebasing example.
 
+Line added for the rebasing example.
+
 ## Introduction
 
 Intro.
