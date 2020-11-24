@@ -24,4 +24,4 @@ Hello.
 
 #Git Training
 
-2020 Git Training
+2020 Git Training. All rights.
