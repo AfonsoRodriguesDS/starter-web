@@ -7,7 +7,7 @@
 	
 # THANKS
 
-    Us.
+    Us, students.
 
 # TECHNOLOGY COLOPHON
 
