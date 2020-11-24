@@ -6,6 +6,8 @@ Line added for the rebasing example.
 
 Line added for the rebasing example.
 
+Emergency fix after stash.
+
 ## Introduction
 
 Intro.
